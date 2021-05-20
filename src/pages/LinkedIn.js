@@ -1,11 +1,7 @@
 import React from "react";
 
 function LinkedIn() {
-  return (
-    <div>
-      <h1>LinkedIn</h1>
-    </div>
-  );
+  return <div></div>;
 }
 
 export default LinkedIn;
